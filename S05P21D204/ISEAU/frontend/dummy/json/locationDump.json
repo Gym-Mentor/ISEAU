@@ -1,0 +1,26 @@
+[
+  { "img": "https://loading.io/s/icon/6z0qv5.svg", "location": "포항", "distance": "1.5-hour" },
+  {
+    "img": "https://loading.io/s/icon/6z0qv5.svg",
+    "location": "부산",
+    "distance": "3.5-hour"
+  },
+  {
+    "img": "https://loading.io/s/icon/6z0qv5.svg",
+    "location": "여수",
+    "distance": "4.5-hour"
+  },
+  { "img": "https://loading.io/s/icon/6z0qv5.svg", "location": "울산", "distance": "3-hour" },
+  {
+    "img": "https://loading.io/s/icon/6z0qv5.svg",
+    "location": "거제",
+    "distance": "5-hour"
+  },
+  {
+    "img": "https://loading.io/s/icon/6z0qv5.svg",
+    "location": "인천",
+    "distance": "4.5-hour"
+  },
+  { "img": "https://loading.io/s/icon/6z0qv5.svg", "location": "삼척", "distance": "6-hour" },
+  { "img": "https://loading.io/s/icon/6z0qv5.svg", "location": "영덕", "distance": "2-hour" }
+]

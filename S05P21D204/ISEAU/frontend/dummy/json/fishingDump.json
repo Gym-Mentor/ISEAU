@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "img": "https://mblogthumb-phinf.pstatic.net/MjAyMDAyMDdfMjMy/MDAxNTgxMDM4MDM0OTEz.M4OThVY4hTYb4MskUG7oTq0nysPQHVbPaMyrOJUFPGkg.VsqeO1LY7wJ-25_llSiZNJWE88iIIpjcxKLcG1wYifcg.JPEG.jun417111/DSC_0191-1.jpg?type=w800",
+    "point_name": "선진포항 앞바다",
+    "name": "대청도 · 소청도",
+    "address": "인천광역시 옹진군",
+    "rate": "3.0",
+    "long": 124.7294721,
+    "lat": 37.8317777,
+    "reviewCnt": 30,
+    "category": "갯바위",
+    "description": {
+      "fish": "넙치 · 노래미 · 농어 · 삼치 · 쏨뱅이 · 우럭",
+      "tide": "조금 전후",
+      "dpwt": "13 ~ 20",
+      "material": "가는 모래"
+    }
+  },
+  {
+    "id": 2,
+    "img": "https://highnoonsportfishing.com/images/back.jpg",
+    "point_name": "고두말 근처바위",
+    "name": "수영만 부근",
+    "address": "부산광역시 해운대구",
+    "rate": "4.3",
+    "long": 129.1772533,
+    "lat": 35.1551069,
+    "reviewCnt": 35,
+    "category": "선상",
+    "description": {
+      "fish": "붕장어 · 참돔 · 노래미 · 도다리 · 숭어 · 전어 · 부시리",
+      "tide": "6물 ~ 8물",
+      "dpwt": "0.3 ~ 0.1",
+      "material": "암"
+    }
+  },
+  {
+    "id": 3,
+    "img": "https://highnoonsportfishing.com/images/back.jpg",
+    "point_name": "합포마을 남측",
+    "name": "진해항 부근",
+    "address": "경상남도 창원시",
+    "rate": "3.3",
+    "long": 128.6961678,
+    "lat": 35.0973736108878,
+    "reviewCnt": 15,
+    "category": "선상",
+    "description": {
+      "fish": "도다리 · 노래미 · 볼락 · 감성돔 · 갑오징어",
+      "tide": "초들물 ~ 중날물",
+      "dpwt": "0.1 ~ 1.7",
+      "material": "펄"
+    }
+  },
+  {
+    "id": 4,
+    "img": "https://highnoonsportfishing.com/images/back.jpg",
+    "point_name": "합포마을 남측",
+    "name": "진해항 부근",
+    "address": "경상남도 창원시",
+    "rate": "3.3",
+    "long": 128.6961678,
+    "lat": 35.0973736108878,
+    "reviewCnt": 15,
+    "category": "선상",
+    "description": {
+      "fish": "도다리 · 노래미 · 볼락 · 감성돔 · 갑오징어",
+      "tide": "초들물 ~ 중날물",
+      "dpwt": "0.1 ~ 1.7",
+      "material": "펄"
+    }
+  },
+  {
+    "id": 5,
+    "img": "https://highnoonsportfishing.com/images/back.jpg",
+    "point_name": "합포마을 남측",
+    "name": "진해항 부근",
+    "address": "경상남도 창원시",
+    "rate": "3.3",
+    "long": 128.6961678,
+    "lat": 35.0973736108878,
+    "reviewCnt": 15,
+    "category": "선상",
+    "description": {
+      "fish": "도다리 · 노래미 · 볼락 · 감성돔 · 갑오징어",
+      "tide": "초들물 ~ 중날물",
+      "dpwt": "0.1 ~ 1.7",
+      "material": "펄"
+    }
+  },
+  {
+    "id": 6,
+    "img": "https://highnoonsportfishing.com/images/back.jpg",
+    "point_name": "합포마을 남측",
+    "name": "진해항 부근",
+    "address": "경상남도 창원시",
+    "rate": "3.3",
+    "long": 128.6961678,
+    "lat": 35.0973736108878,
+    "reviewCnt": 15,
+    "category": "선상",
+    "description": {
+      "fish": "도다리 · 노래미 · 볼락 · 감성돔 · 갑오징어",
+      "tide": "초들물 ~ 중날물",
+      "dpwt": "0.1 ~ 1.7",
+      "material": "펄"
+    }
+  },
+  {
+    "id": 7,
+    "img": "https://highnoonsportfishing.com/images/back.jpg",
+    "point_name": "합포마을 남측",
+    "name": "진해항 부근",
+    "address": "경상남도 창원시",
+    "rate": "3.3",
+    "long": 128.6961678,
+    "lat": 35.0973736108878,
+    "reviewCnt": 15,
+    "category": "선상",
+    "description": {
+      "fish": "도다리 · 노래미 · 볼락 · 감성돔 · 갑오징어",
+      "tide": "초들물 ~ 중날물",
+      "dpwt": "0.1 ~ 1.7",
+      "material": "펄"
+    }
+  },
+  {
+    "id": 8,
+    "img": "https://highnoonsportfishing.com/images/back.jpg",
+    "point_name": "합포마을 남측",
+    "name": "진해항 부근",
+    "address": "경상남도 창원시",
+    "rate": "3.3",
+    "long": 128.6961678,
+    "lat": 35.0973736108878,
+    "reviewCnt": 15,
+    "category": "선상",
+    "description": {
+      "fish": "도다리 · 노래미 · 볼락 · 감성돔 · 갑오징어",
+      "tide": "초들물 ~ 중날물",
+      "dpwt": "0.1 ~ 1.7",
+      "material": "펄"
+    }
+  }
+]

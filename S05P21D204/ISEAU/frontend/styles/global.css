@@ -1,0 +1,24 @@
+@tailwind components;
+
+@layer components {
+  .button {
+    @apply px-4 py-2 border rounded-full cursor-pointer hover:shadow-lg active:scale-95
+        active:bg-gray-100 transition transform duration-100 ease-out bg-white text-gray-800;
+  }
+  .button_selected {
+    @apply px-4 py-2 border rounded-full cursor-pointer hover:shadow-lg active:scale-95
+        active:bg-gray-100 transition transform duration-100 ease-out bg-blue-400 text-white;
+  }
+  .button_active {
+    @apply text-blue-500 bg-transparent w-52 font-bold uppercase px-6 py-2 text-sm border-2 rounded-xl border-blue-300 focus:outline-none mt-3 mr-1 mb-1 ease-linear transition-all duration-150;
+  }
+  .button_unactive {
+    @apply text-white bg-gray-300 w-52 font-bold uppercase px-6 py-2 text-sm border-2 rounded-xl border-gray-300 focus:outline-none mt-3 mr-1 mb-1 ease-linear transition-all duration-150 cursor-not-allowed;
+  }
+  .checkbutton_active {
+    @apply text-blue-500 h-8 bg-transparent font-bold uppercase px-3 py-1 text-sm border-2 rounded-xl border-blue-300 focus:outline-none mt-2 mr-1 mb-1 ease-linear transition-all duration-150;
+  }
+  .checkbutton_unactive {
+    @apply text-white bg-gray-300 h-8 font-bold uppercase px-3 py-1 text-sm border-2 rounded-xl border-gray-300 focus:outline-none mt-2 mr-1 mb-1 ease-linear transition-all duration-150 cursor-not-allowed;
+  }
+}
