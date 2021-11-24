@@ -32,11 +32,3 @@ yarn install
 yarn dev
 ```
 
-### database connection
-
-- DB hostname : iseau
-- id : root
-- pw : j5d204
-- port : 3306
-
-- 도커 컨테이너 생성시 볼륨 마운트
